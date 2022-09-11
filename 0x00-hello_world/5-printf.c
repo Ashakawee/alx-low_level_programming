@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - entery point
+ * main - main block
  *
  * what prigram run 
- * return the value of 0
+ * return the value of (0)
  */
 int main(void)
 {
