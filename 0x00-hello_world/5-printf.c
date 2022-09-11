@@ -1,12 +1,13 @@
 #include <stdio.h>
-/**
+
+/*
  * main - main block
- *
- * what prigram run 
- * return the value of (0)
+ * Description: using the main function
+ * Return: 0
  */
+
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
