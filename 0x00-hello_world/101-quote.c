@@ -1,8 +1,10 @@
 #include<stdio.h>
 #include <unistd.h>
-/*
- * main entry
- * return 1
+/**
+ * main - main block
+ *
+ * Return: 1
+ *
  */
 int main(void)
 {
