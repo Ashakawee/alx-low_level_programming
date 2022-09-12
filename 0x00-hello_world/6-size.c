@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - function entery
- * decription: exicution the statements
- * return values
+ * main - main block
+ *
+ * Return: 0
  *
  */
 int main(void)
