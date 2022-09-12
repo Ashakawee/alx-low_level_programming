@@ -12,7 +12,7 @@ int main(void)
 
 	for (n = 0; n < 52; n++)
 	{
-		putchar(musa[i]);
+		putchar(musa[n]);
 	}
 	putcahr('\n');
 	return (0);
