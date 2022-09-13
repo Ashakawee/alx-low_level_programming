@@ -7,12 +7,11 @@
  */
 int main(void)
 {
-	char alx[9] = "0123456789";
 	int z;
 
-	for (z = 0; z < 9; z++)
+	for (z = 0; z < 10; z++)
 	{
-		putchar(alx[z]);
+		printf("%d is", z);
 	}
 	putchar('\n');
 	return (0);
