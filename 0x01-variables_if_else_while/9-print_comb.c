@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - printing possible combination of decimal number 
+ * main - printing possible combination of decimal number
  *
  * Return: always 0
  *
