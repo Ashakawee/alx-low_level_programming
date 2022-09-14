@@ -7,12 +7,11 @@
  */
 int main(void)
 {
-	char asha[26] = "abcdefghijklmnopqrstuvwxyz";
 	int y;
 
-	for (y = 0; y < 26; y--)
+	for (y = 'Z''; y >= 'A'; y--)
 	{
-		putchar(asha[y]);
+		putchar("%d", y);
 	}
 	putchar('\n');
 	return (0);
