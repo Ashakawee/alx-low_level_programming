@@ -4,8 +4,8 @@
  *
  * Description: function uses _putchar function to print
  *
- * alphabet in lowercase 10 times
- * 
+ * alphabet in lowercase 10 time
+ *
  * Return: 0 always
  */
 void print_alphabet_x10(void)
@@ -20,4 +20,3 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 	}
 }
-
