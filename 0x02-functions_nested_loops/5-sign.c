@@ -2,6 +2,7 @@
 /**
  * print_sign - printing the sign of number
  *
+ * @n : The character in ASCII code
  * Return: +1 for lowercase character. 0 for rest. -1 for negative
  */
 int print_sign(int n)
