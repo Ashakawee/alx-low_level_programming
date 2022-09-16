@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _abs - Check Holberton
- * @r: An integre input
- * Return: absolut value of r
+ * @i: An integre input
+ * Return: absolut value of i
  */
 int _abs(int i)
 {
