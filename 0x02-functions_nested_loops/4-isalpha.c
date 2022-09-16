@@ -1,9 +1,12 @@
 #include "main.h"
 /**
- * -isalpha.c - writhing a function checking alphabets character 
+ * _isalpha - a function to check for alphabets
  *
- *  Return: always 0
+ * lowercase character. Another cases, shows 0,
  *
+ *  @c: The character in ASCII code
+ *
+ * Return: 1 for lowercase character. 0 for the rest.
  */
 int _isalpha(int c)
 {
