@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_digit - entry point
+ * print_last_digit s entry point
  * @x: Evaluating value
  * Return: on last value success
  * On failure, -1
