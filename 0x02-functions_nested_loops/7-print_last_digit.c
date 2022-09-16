@@ -1,10 +1,9 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * print_last_digit s entry point
+ * print_last_digit - Entrypoint
  * @x: Evaluating value
- * Return: on last value success
- * On failure, -1
+ * Return: on success 1
  */
 int print_last_digit(int x)
 {
