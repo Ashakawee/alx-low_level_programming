@@ -8,7 +8,7 @@
  * 
  * Return: 0 always
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	char l;
 	int n;
