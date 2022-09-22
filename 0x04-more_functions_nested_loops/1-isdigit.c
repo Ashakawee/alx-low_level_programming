@@ -8,12 +8,9 @@
 
 int _isdigit(int c)
 {
-	for (c = 48 && c = 58)
-	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
+	c = '0';
+	printf("%c: %d\n", c);
+	c = 'a';
+	printf("%c: %d\n", c);
+	return (0);
 }
