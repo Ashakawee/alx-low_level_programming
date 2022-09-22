@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
 * _isdigit - cheking a digit between 0 t0 9
