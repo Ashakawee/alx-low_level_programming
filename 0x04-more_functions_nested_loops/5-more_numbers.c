@@ -10,7 +10,7 @@ void more_numbers(void)
 
 	for (i = 0; i <= 9)
 	{
-		for (t = '0'; t <= '14'; t++)
+		for (t = 0; t <= 14; t++)
 		{
 			if (t >= 10)
 				_putchat((t / 10) + 48);
