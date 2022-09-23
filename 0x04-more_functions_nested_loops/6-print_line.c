@@ -13,8 +13,7 @@ void print_line(int n)
 	if (n < 0)
 	{
 		for (; i < n; i++)
-		_putchar('_');
-		_putchar('\n');
+		_putchar("_\n");
 	}
 	_putchar('\n')i;
 }
