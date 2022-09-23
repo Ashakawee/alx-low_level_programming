@@ -11,7 +11,7 @@ void more_numbers(void)
 	i = 0;
 	while (i < 10)
 	{
-		for (t = 0; t < 15; t++)
+		for (t = '0'; t < '15'; t++)
 		{
 			_putchat("%d", t);
 		}
